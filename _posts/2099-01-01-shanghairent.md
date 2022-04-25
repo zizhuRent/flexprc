@@ -20,7 +20,7 @@ by: 'Gustavo Quinalha'
 
 ## 区域与房源
 
-<img src="/figure/zizhu_map.png" width="1000"/>
+<img src="/flexprc/figure/zizhu_map.png" width="1000"/>
 
 在这章里将会介绍紫竹的租房区域和典型小区优劣，
 
@@ -112,6 +112,6 @@ by: 'Gustavo Quinalha'
 
 <p>4. 放一个合同的例子给大家参考，关于最后打码的补充条款，其实所有和房东协商好的内容都应该写上，比如协助办居住证，家具家电更换等等。签约的时候原则上要看房东的房产证，身份证，这个和交钱的账户要对起来，如果不一致要说明原因，必要时加到补充条款里。</p>
 
-<img src="/figure/contract_1.jpg" width="1000"/>
+<img src="/flexprc/figure/contract_1.jpg" width="1000"/>
 
-<img src="/figure/contract_2.jpg" width="1000"/>
+<img src="/flexprc/figure/contract_2.jpg" width="1000"/>
