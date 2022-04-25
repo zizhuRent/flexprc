@@ -20,7 +20,7 @@ by: 'Gustavo Quinalha'
 
 ## 区域与房源
 
-<img src="/flexprc/figure/zizhu_map.png" width="1000"/>
+<img src="/flexprc/figure/zizhu_map.jpg" width="1000"/>
 
 在这章里将会介绍紫竹的租房区域和典型小区优劣，
 
